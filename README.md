@@ -83,3 +83,16 @@ Evaluation Metrics:
 ---
 
 ## 📂 Repository Structure
+
+├── delinquency_model.ipynb
+├── model_metrics.csv
+├── PowerBI_Dashboard.pbix
+└── README.md
+
+
+---
+
+## 🚀 Project Outcome
+This project demonstrates an end-to-end analytics workflow:
+Data preprocessing → Predictive modeling → Performance evaluation → Executive dashboard reporting.
+
